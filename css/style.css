@@ -262,7 +262,7 @@ a {
       text-overflow: ellipsis; }
     .about-us .about-us-item a {
       display: block;
-      padding: 10px 0; }
+      margin: 10px 0; }
       .about-us .about-us-item a:hover {
         text-decoration: underline; }
 
